@@ -218,6 +218,7 @@ class Trainer:
         for idx, sample in enumerate(train_loader):
             
             loss = self.train_one_batch(idx, sample, training_loss)
+            #print(loss.shape)
             loss.backward()
             self.optimizer.step()
 
