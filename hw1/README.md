@@ -1,6 +1,6 @@
 # cse598-hw1 
 
-See [oriignal copy here](https://github.com/AI-Complexity-Lab/cse598/tree/main/hw1).
+See [original copy here](https://github.com/AI-Complexity-Lab/cse598/tree/main/hw1).
 
 Please check 
 `hw1_pinn.ipynb` for Q1.1 and 1.2.
